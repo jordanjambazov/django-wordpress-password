@@ -1,0 +1,5 @@
+Django==1.6.2
+argparse==1.2.1
+django-hashers-passlib==0.1
+passlib==1.6.2
+wsgiref==0.1.2
